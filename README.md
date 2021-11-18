@@ -16,7 +16,7 @@ Inspected the CSVs and sketched out an ERD of the tables.
 
 Tool used: **http://www.quickdatabasediagrams.com**
 
-![]("C:\Users\shrey\Documents\SQL-challenge\SQL-challenge\images\Data_Model.png")
+![](C:/Users/shrey/Documents/SQL-challenge/SQL-challenge/images/Data_Model.png)
 
 ## Data Engineering
 
