@@ -18,7 +18,7 @@ Inspected the CSVs and sketched out an ERD of the tables.
 
 Tool used: **http://www.quickdatabasediagrams.com**
 
-![ERD Diagram](/images/Data_Model.PNG)
+![ERD Diagram](/images/Data_Model.png)
 
 ## Data Engineering
 
