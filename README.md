@@ -15,7 +15,7 @@ In this project, design the tables to hold data in the CSVs, import the CSVs int
 Inspected the CSVs and sketched out an ERD of the tables. 
 Tool used: http://www.quickdatabasediagrams.com
 
-![ERD Diagram](../SQL-challenege/images/Data_Model.png)
+![ERD Diagram](..images/Data_Model.png)
 
 ## Data Engineering
 
