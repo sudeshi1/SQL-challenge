@@ -16,8 +16,6 @@ Inspected the CSVs and sketched out an ERD of the tables.
 
 Tool used: **http://www.quickdatabasediagrams.com**
 
-![](C:/Users/shrey/Documents/SQL-challenge/SQL-challenge/images/Data_Model.png)
-
 ## Data Engineering
 
 - Created a table schema for each of the six CSV files and specified data types, primary keys, foreign keys, and other constraints.
